@@ -33,7 +33,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-origi
   <a href="https://www.melissaspace.wordpress.com" target="_blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/melissaspace/melissaspace.git/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/melissaspace/melissaspace/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 <img alt="Mel-Sailor" height="148" width="200"
