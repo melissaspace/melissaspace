@@ -6,7 +6,7 @@
 
 ### 📚 O que estou fazendo
 - 📖 Buscando me aprimorar no backend com o [SENAI](https://firjansenai.com.br/cursorio/portal/index.php).
-- ⚙️ Trabalhando em incríveis projetos na [UNISUAM](https://www.unisuam.edu.br/).
+- ⚙️ Trabalhando em projetos maneiros na [UNISUAM](https://www.unisuam.edu.br/).
 ### 🌱 Tecnologias que estou aprendendo
 - 💻 Worpress, Bootstrap, PHP e Docker são algumas das tecnologias no meu radar.
 - 🤓 Também tenho interesse em aprender Python, React e Node.js!
@@ -26,7 +26,6 @@
   <img align="center" alt="Mel-Wordpress" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="Mel-Bootstrap" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">     
   <img align="center" alt="Mel-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" >
-  <img align="center" alt="Mel-Unity" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
   <img align="center" alt="Mel-Photoshop" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
   <img align="center" alt="Mel-Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   <img align="center" alt="Mel-Notion" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" >
