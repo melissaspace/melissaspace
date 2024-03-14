@@ -1,6 +1,6 @@
 # 💙 Olá, seja muito bem-vindo(a) ao meu perfil! 🙋🏻
 
-## 👩🏻‍💻 Desenvolvedora FullStack | Estudante de ADS
+## 👩🏻‍💻 Desenvolvedora Web | Estudante de ADS
 
 <p>👩🏻‍💼 "Eu sou a Melissa, uma estudante apaixonada por Análise e Desenvolvimento de Sistemas, mergulhando de cabeça no mundo da programação com o objetivo de aprender, colaborar e crescer. Minha missão profissional? Utilizar o poder do código para fazer a diferença e ajudar pessoas!"</p>
 
