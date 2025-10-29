@@ -2,14 +2,15 @@
 
 ## 👩🏻‍💻 Desenvolvedora Web | Estudante de ADS
 
-<p>👩🏻‍💼 "Eu sou a Melissa, uma estudante apaixonada por Análise e Desenvolvimento de Sistemas, mergulhando de cabeça no mundo da programação com o objetivo de aprender, colaborar e crescer. Minha missão profissional? Utilizar o poder do código para fazer a diferença e ajudar pessoas!"</p>
+<p> Olá! Me chamo Melissa, tenho 21 anos e sou estudante Análise e Desenvolvimento de Sistemas.</p>
 
 ### 📚 O que estou fazendo
 - 📖 Buscando me aprimorar no backend com o [SENAI](https://firjansenai.com.br/cursorio/portal/index.php).
 - ⚙️ Trabalhando em projetos maneiros na [UNISUAM](https://www.unisuam.edu.br/).
+- 👩🏻‍💼 Estagiando como programadora FullStack no [ICN](https://www.cienciasnauticas.org.br/).
 ### 🌱 Tecnologias que estou aprendendo
-- 💻 Worpress, Bootstrap, PHP e Docker são algumas das tecnologias no meu radar.
-- 🤓 Também tenho interesse em aprender Python, React e Node.js!
+- 💻 C#, Blazor, Syncfusion são algumas das tecnologias no meu radar.
+- 🤓 Também tenho interesse em aprender mais sobre PHP e Docker.
 ### 💬 Vamos conversar!
 - Me ache no [LinkedIn](https://www.linkedin.com/in/melissacraveiro/)
 - Ou me envie um email: melissasouza.dev@gmail.com
